@@ -19,7 +19,6 @@ h1 {
 	height: 150px;
 	position: relative;
 	margin-bottom: 20px;
-	border: dotted black 1px;
 }
 
 .item-description {
@@ -81,9 +80,4 @@ h1 {
 		position: relative;
 		right: 1.25%;
 	}
-}
-
-/*** Mobile ***/
-@media (max-width: 767px) {
-
 }
