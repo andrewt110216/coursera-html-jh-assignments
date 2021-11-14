@@ -1,0 +1,96 @@
+body {
+	font-size: 16px;
+	color: #000;
+	font-family: Geneva, Tahoma, Verdana, sans-serif;
+	background-color: ;
+}
+
+/* -----------HEADER ------------*/
+#header-nav {
+	color: #000;
+	background-color: #CCD1D1;
+	border-top: 3px solid #000;
+	border-bottom: 3px solid #000;
+	border-right: 0px;
+	border-left: 0px;
+}
+
+#header-nav .container {
+	width: 99%;
+}
+
+.navbar-header {
+	margin-bottom: 15px;
+}
+
+header h1 {
+	color: #000;
+	margin-top: 0;
+	text-align: left;
+}
+
+#collapsable-nav {
+	padding: 0;
+}
+
+.navbar-header button {
+	position: relative;
+	top: 10px;
+}
+
+.navbar-header button.navbar-toggle.collapsed, .icon-bar.collapsed {
+	border: 1px solid #000; /* BLACK */
+}
+
+.navbar-header button.navbar-toggle {
+	border-color: #fff; /* WHITE */
+	border: 2px solid #fff;
+}
+
+.navbar-header button.navbar-toggle:focus, .navbar-header button.navbar-toggle:hover {
+	background: none;
+}
+
+#nav-list a {
+	text-align: center;
+	border-top: 3px solid #000;
+	background-color: #fff;
+}
+
+.navbar-nav {
+	margin: 0;
+}
+
+/* -------- MAIN CONTENT ---------- */
+
+#main-content h2 {
+	margin-bottom: 25px;
+}
+
+#menu-tiles {
+	padding: 5px 10px;
+}
+
+#menu-tile {
+	margin-bottom: 15px;
+	padding: 5px 10px;
+	border: 2px solid #000;
+	background-color: #eeeeee;
+}
+
+#tile-header {
+	margin-top: 10px;
+	font-size: 1.2em;
+	font-weight: bold;
+}
+
+#tile-description {
+	margin: 0 5px;
+}
+
+#menu-tile a {
+	margin: 0 5px;
+	text-decoration: underline;
+}
+
+
