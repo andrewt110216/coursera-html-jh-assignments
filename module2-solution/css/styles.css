@@ -59,6 +59,10 @@ h1 {
 	background-color: #F1C40F;
 }
 
+
+.shrimp {
+	background-color: #FFA07A;
+}
 /*** Desktop ***/
 @media (min-width: 992px) {
 	.col-lg-4 {
