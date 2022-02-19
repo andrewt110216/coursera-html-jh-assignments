@@ -1,5 +1,5 @@
 # coursera-html-jh-assignments
-Assignment solutions for HTML/CSS/JS Coursera course by Johns Hopkins (Jaakov Chaikin)
+Assignment solutions for HTML/CSS/JS Coursera course by Johns Hopkins (Yaakov Chaikin)
 Created by Andrew T.
 October 24, 2021
 
